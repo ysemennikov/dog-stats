@@ -1,0 +1,1145 @@
+Country,ISO Alpha 2,ISO Alpha 3,Year,Dogs Count
+Argentina,AR,ARG,2014,0
+Argentina,AR,ARG,2015,0
+Argentina,AR,ARG,2016,
+Argentina,AR,ARG,2017,
+Argentina,AR,ARG,2018,
+Argentina,AR,ARG,2019,
+Argentina,AR,ARG,2020,
+Argentina,AR,ARG,2021,
+Argentina,AR,ARG,2022,
+Argentina,AR,ARG,2023,0
+Argentina,AR,ARG,2024,
+Bolivia,BO,BOL,2014,5000
+Bolivia,BO,BOL,2015,5500
+Bolivia,BO,BOL,2016,6000
+Bolivia,BO,BOL,2017,7000
+Bolivia,BO,BOL,2018,3000000
+Bolivia,BO,BOL,2019,3000000
+Bolivia,BO,BOL,2020,3000000
+Bolivia,BO,BOL,2021,3011000
+Bolivia,BO,BOL,2022,3026000
+Bolivia,BO,BOL,2023,3046000
+Bolivia,BO,BOL,2024,3106000
+Brazil,BR,BRA,2014,
+Brazil,BR,BRA,2015,4511236
+Brazil,BR,BRA,2016,45271787
+Brazil,BR,BRA,2017,45689891
+Brazil,BR,BRA,2018,45833315
+Brazil,BR,BRA,2019,45954296
+Brazil,BR,BRA,2020,54200000
+Brazil,BR,BRA,2021,55900000
+Brazil,BR,BRA,2022,58100000
+Brazil,BR,BRA,2023,55900000
+Brazil,BR,BRA,2024,58247800
+Chile,CL,CHL,2014,
+Chile,CL,CHL,2015,
+Chile,CL,CHL,2016,
+Chile,CL,CHL,2017,
+Chile,CL,CHL,2018,
+Chile,CL,CHL,2019,3600000
+Chile,CL,CHL,2020,
+Chile,CL,CHL,2021,3800000
+Chile,CL,CHL,2022,11767754
+Chile,CL,CHL,2023,11767754
+Chile,CL,CHL,2024,11767754
+Colombia,CO,COL,2014,
+Colombia,CO,COL,2015,
+Colombia,CO,COL,2016,68130
+Colombia,CO,COL,2017,
+Colombia,CO,COL,2018,
+Colombia,CO,COL,2019,
+Colombia,CO,COL,2020,
+Colombia,CO,COL,2021,74990
+Colombia,CO,COL,2022,
+Colombia,CO,COL,2023,
+Colombia,CO,COL,2024,
+Costa Rica,CR,CRI,2014,3000
+Costa Rica,CR,CRI,2015,2980
+Costa Rica,CR,CRI,2016,2371
+Costa Rica,CR,CRI,2017,
+Costa Rica,CR,CRI,2018,8000
+Costa Rica,CR,CRI,2019,10000
+Costa Rica,CR,CRI,2020,12125
+Costa Rica,CR,CRI,2021,
+Costa Rica,CR,CRI,2022,
+Costa Rica,CR,CRI,2023,1400000
+Costa Rica,CR,CRI,2024,1451000
+Cuba,CU,CUB,2014,
+Cuba,CU,CUB,2015,
+Cuba,CU,CUB,2016,
+Cuba,CU,CUB,2017,
+Cuba,CU,CUB,2018,
+Cuba,CU,CUB,2019,
+Cuba,CU,CUB,2020,
+Cuba,CU,CUB,2021,
+Cuba,CU,CUB,2022,
+Cuba,CU,CUB,2023,
+Cuba,CU,CUB,2024,
+Dominican Republic,DO,DOM,2014,1900000
+Dominican Republic,DO,DOM,2015,1900842
+Dominican Republic,DO,DOM,2016,1900000
+Dominican Republic,DO,DOM,2017,
+Dominican Republic,DO,DOM,2018,
+Dominican Republic,DO,DOM,2019,
+Dominican Republic,DO,DOM,2020,190000
+Dominican Republic,DO,DOM,2021,30000
+Dominican Republic,DO,DOM,2022,
+Dominican Republic,DO,DOM,2023,36000
+Dominican Republic,DO,DOM,2024,40000
+Ecuador,EC,ECU,2014,
+Ecuador,EC,ECU,2015,
+Ecuador,EC,ECU,2016,
+Ecuador,EC,ECU,2017,
+Ecuador,EC,ECU,2018,
+Ecuador,EC,ECU,2019,
+Ecuador,EC,ECU,2020,
+Ecuador,EC,ECU,2021,
+Ecuador,EC,ECU,2022,
+Ecuador,EC,ECU,2023,
+Ecuador,EC,ECU,2024,2600000
+El Salvador,SV,SLV,2014,300487
+El Salvador,SV,SLV,2015,301530
+El Salvador,SV,SLV,2016,302638
+El Salvador,SV,SLV,2017,303786
+El Salvador,SV,SLV,2018,304994
+El Salvador,SV,SLV,2019,306270
+El Salvador,SV,SLV,2020,307616
+El Salvador,SV,SLV,2021,309027
+El Salvador,SV,SLV,2022,310507
+El Salvador,SV,SLV,2023,312067
+El Salvador,SV,SLV,2024,396000
+Guatemala,GT,GTM,2014,
+Guatemala,GT,GTM,2015,
+Guatemala,GT,GTM,2016,
+Guatemala,GT,GTM,2017,
+Guatemala,GT,GTM,2018,
+Guatemala,GT,GTM,2019,
+Guatemala,GT,GTM,2020,
+Guatemala,GT,GTM,2021,
+Guatemala,GT,GTM,2022,
+Guatemala,GT,GTM,2023,
+Guatemala,GT,GTM,2024,
+Honduras,HN,HND,2014,
+Honduras,HN,HND,2015,
+Honduras,HN,HND,2016,
+Honduras,HN,HND,2017,
+Honduras,HN,HND,2018,
+Honduras,HN,HND,2019,
+Honduras,HN,HND,2020,
+Honduras,HN,HND,2021,
+Honduras,HN,HND,2022,
+Honduras,HN,HND,2023,
+Honduras,HN,HND,2024,2000000
+Mexico,MX,MEX,2014,
+Mexico,MX,MEX,2015,
+Mexico,MX,MEX,2016,
+Mexico,MX,MEX,2017,
+Mexico,MX,MEX,2018,
+Mexico,MX,MEX,2019,
+Mexico,MX,MEX,2020,
+Mexico,MX,MEX,2021,
+Mexico,MX,MEX,2022,
+Mexico,MX,MEX,2023,
+Mexico,MX,MEX,2024,
+Nicaragua,NI,NIC,2014,3200000
+Nicaragua,NI,NIC,2015,0
+Nicaragua,NI,NIC,2016,
+Nicaragua,NI,NIC,2017,
+Nicaragua,NI,NIC,2018,
+Nicaragua,NI,NIC,2019,
+Nicaragua,NI,NIC,2020,
+Nicaragua,NI,NIC,2021,
+Nicaragua,NI,NIC,2022,
+Nicaragua,NI,NIC,2023,
+Nicaragua,NI,NIC,2024,
+Panama,PA,PAN,2014,
+Panama,PA,PAN,2015,
+Panama,PA,PAN,2016,
+Panama,PA,PAN,2017,
+Panama,PA,PAN,2018,
+Panama,PA,PAN,2019,
+Panama,PA,PAN,2020,
+Panama,PA,PAN,2021,
+Panama,PA,PAN,2022,
+Panama,PA,PAN,2023,
+Panama,PA,PAN,2024,
+Paraguay,PY,PRY,2014,
+Paraguay,PY,PRY,2015,
+Paraguay,PY,PRY,2016,
+Paraguay,PY,PRY,2017,
+Paraguay,PY,PRY,2018,
+Paraguay,PY,PRY,2019,
+Paraguay,PY,PRY,2020,
+Paraguay,PY,PRY,2021,
+Paraguay,PY,PRY,2022,
+Paraguay,PY,PRY,2023,
+Paraguay,PY,PRY,2024,
+Peru,PE,PER,2014,
+Peru,PE,PER,2015,
+Peru,PE,PER,2016,
+Peru,PE,PER,2017,
+Peru,PE,PER,2018,
+Peru,PE,PER,2019,
+Peru,PE,PER,2020,3000000
+Peru,PE,PER,2021,
+Peru,PE,PER,2022,
+Peru,PE,PER,2023,6000000
+Peru,PE,PER,2024,6000000
+Puerto Rico,PR,PRI,2014,1400087
+Puerto Rico,PR,PRI,2015,1400100
+Puerto Rico,PR,PRI,2016,1400135
+Puerto Rico,PR,PRI,2017,1400000
+Puerto Rico,PR,PRI,2018,1400000
+Puerto Rico,PR,PRI,2019,140000
+Puerto Rico,PR,PRI,2020,140000
+Puerto Rico,PR,PRI,2021,162000
+Puerto Rico,PR,PRI,2022,
+Puerto Rico,PR,PRI,2023,165000
+Puerto Rico,PR,PRI,2024,165000
+Uruguay,UY,URY,2014,1500000
+Uruguay,UY,URY,2015,1500000
+Uruguay,UY,URY,2016,1500000
+Uruguay,UY,URY,2017,1500000
+Uruguay,UY,URY,2018,1500000
+Uruguay,UY,URY,2019,1700000
+Uruguay,UY,URY,2020,1700000
+Uruguay,UY,URY,2021,1700000
+Uruguay,UY,URY,2022,1700000
+Uruguay,UY,URY,2023,1445000
+Uruguay,UY,URY,2024,1445000
+Venezuela (Bolivarian Republic Of),VE,VEN,2014,
+Venezuela (Bolivarian Republic Of),VE,VEN,2015,
+Venezuela (Bolivarian Republic Of),VE,VEN,2016,
+Venezuela (Bolivarian Republic Of),VE,VEN,2017,
+Venezuela (Bolivarian Republic Of),VE,VEN,2018,
+Venezuela (Bolivarian Republic Of),VE,VEN,2019,
+Venezuela (Bolivarian Republic Of),VE,VEN,2020,
+Venezuela (Bolivarian Republic Of),VE,VEN,2021,
+Venezuela (Bolivarian Republic Of),VE,VEN,2022,
+Venezuela (Bolivarian Republic Of),VE,VEN,2023,185005
+Venezuela (Bolivarian Republic Of),VE,VEN,2024,
+Albania,AL,ALB,2014,
+Albania,AL,ALB,2015,
+Albania,AL,ALB,2016,
+Albania,AL,ALB,2017,
+Albania,AL,ALB,2018,
+Albania,AL,ALB,2019,
+Albania,AL,ALB,2020,
+Albania,AL,ALB,2021,2467
+Albania,AL,ALB,2022,3152
+Albania,AL,ALB,2023,3519
+Albania,AL,ALB,2024,4332
+Armenia,AM,ARM,2014,
+Armenia,AM,ARM,2015,
+Armenia,AM,ARM,2016,
+Armenia,AM,ARM,2017,
+Armenia,AM,ARM,2018,
+Armenia,AM,ARM,2019,
+Armenia,AM,ARM,2020,
+Armenia,AM,ARM,2021,
+Armenia,AM,ARM,2022,
+Armenia,AM,ARM,2023,
+Armenia,AM,ARM,2024,
+Austria,AT,AUT,2014,645000
+Austria,AT,AUT,2015,650000
+Austria,AT,AUT,2016,655000
+Austria,AT,AUT,2017,656000
+Austria,AT,AUT,2018,665000
+Austria,AT,AUT,2019,665300
+Austria,AT,AUT,2020,820000
+Austria,AT,AUT,2021,825000
+Austria,AT,AUT,2022,827000
+Austria,AT,AUT,2023,820000
+Austria,AT,AUT,2024,824000
+Azerbaijan,AZ,AZE,2014,
+Azerbaijan,AZ,AZE,2015,
+Azerbaijan,AZ,AZE,2016,
+Azerbaijan,AZ,AZE,2017,
+Azerbaijan,AZ,AZE,2018,
+Azerbaijan,AZ,AZE,2019,
+Azerbaijan,AZ,AZE,2020,
+Azerbaijan,AZ,AZE,2021,
+Azerbaijan,AZ,AZE,2022,
+Azerbaijan,AZ,AZE,2023,
+Azerbaijan,AZ,AZE,2024,
+Belarus,BY,BLR,2014,120380
+Belarus,BY,BLR,2015,
+Belarus,BY,BLR,2016,
+Belarus,BY,BLR,2017,
+Belarus,BY,BLR,2018,
+Belarus,BY,BLR,2019,
+Belarus,BY,BLR,2020,
+Belarus,BY,BLR,2021,
+Belarus,BY,BLR,2022,
+Belarus,BY,BLR,2023,
+Belarus,BY,BLR,2024,
+Belgium,BE,BEL,2014,
+Belgium,BE,BEL,2015,
+Belgium,BE,BEL,2016,164424
+Belgium,BE,BEL,2017,
+Belgium,BE,BEL,2018,
+Belgium,BE,BEL,2019,
+Belgium,BE,BEL,2020,
+Belgium,BE,BEL,2021,843628
+Belgium,BE,BEL,2022,879939
+Belgium,BE,BEL,2023,910203
+Belgium,BE,BEL,2024,
+Bosnia And Herzegovina,BA,BIH,2014,
+Bosnia And Herzegovina,BA,BIH,2015,
+Bosnia And Herzegovina,BA,BIH,2016,48929
+Bosnia And Herzegovina,BA,BIH,2017,
+Bosnia And Herzegovina,BA,BIH,2018,
+Bosnia And Herzegovina,BA,BIH,2019,
+Bosnia And Herzegovina,BA,BIH,2020,
+Bosnia And Herzegovina,BA,BIH,2021,
+Bosnia And Herzegovina,BA,BIH,2022,
+Bosnia And Herzegovina,BA,BIH,2023,
+Bosnia And Herzegovina,BA,BIH,2024,
+Bulgaria,BG,BGR,2014,
+Bulgaria,BG,BGR,2015,
+Bulgaria,BG,BGR,2016,
+Bulgaria,BG,BGR,2017,
+Bulgaria,BG,BGR,2018,
+Bulgaria,BG,BGR,2019,
+Bulgaria,BG,BGR,2020,
+Bulgaria,BG,BGR,2021,
+Bulgaria,BG,BGR,2022,
+Bulgaria,BG,BGR,2023,
+Bulgaria,BG,BGR,2024,
+Croatia,HR,HRV,2014,400000
+Croatia,HR,HRV,2015,400000
+Croatia,HR,HRV,2016,
+Croatia,HR,HRV,2017,350000
+Croatia,HR,HRV,2018,350000
+Croatia,HR,HRV,2019,350000
+Croatia,HR,HRV,2020,350000
+Croatia,HR,HRV,2021,360000
+Croatia,HR,HRV,2022,330000
+Croatia,HR,HRV,2023,330000
+Croatia,HR,HRV,2024,330000
+Cyprus,CY,CYP,2014,0
+Cyprus,CY,CYP,2015,0
+Cyprus,CY,CYP,2016,
+Cyprus,CY,CYP,2017,0
+Cyprus,CY,CYP,2018,
+Cyprus,CY,CYP,2019,
+Cyprus,CY,CYP,2020,
+Cyprus,CY,CYP,2021,
+Cyprus,CY,CYP,2022,
+Cyprus,CY,CYP,2023,
+Cyprus,CY,CYP,2024,
+Czech Republic,CZ,CZE,2014,
+Czech Republic,CZ,CZE,2015,2000000
+Czech Republic,CZ,CZE,2016,2000000
+Czech Republic,CZ,CZE,2017,2000000
+Czech Republic,CZ,CZE,2018,2000000
+Czech Republic,CZ,CZE,2019,2000000
+Czech Republic,CZ,CZE,2020,2000000
+Czech Republic,CZ,CZE,2021,2000000
+Czech Republic,CZ,CZE,2022,2000000
+Czech Republic,CZ,CZE,2023,
+Czech Republic,CZ,CZE,2024,
+Denmark,DK,DNK,2014,500000
+Denmark,DK,DNK,2015,580000
+Denmark,DK,DNK,2016,575000
+Denmark,DK,DNK,2017,570000
+Denmark,DK,DNK,2018,570000
+Denmark,DK,DNK,2019,570000
+Denmark,DK,DNK,2020,600000
+Denmark,DK,DNK,2021,630000
+Denmark,DK,DNK,2022,630000
+Denmark,DK,DNK,2023,650000
+Denmark,DK,DNK,2024,650000
+Estonia,EE,EST,2014,
+Estonia,EE,EST,2015,0
+Estonia,EE,EST,2016,
+Estonia,EE,EST,2017,
+Estonia,EE,EST,2018,
+Estonia,EE,EST,2019,
+Estonia,EE,EST,2020,
+Estonia,EE,EST,2021,
+Estonia,EE,EST,2022,
+Estonia,EE,EST,2023,
+Estonia,EE,EST,2024,
+Finland,FI,FIN,2014,600000
+Finland,FI,FIN,2015,600000
+Finland,FI,FIN,2016,600000
+Finland,FI,FIN,2017,800000
+Finland,FI,FIN,2018,800000
+Finland,FI,FIN,2019,800000
+Finland,FI,FIN,2020,700000
+Finland,FI,FIN,2021,700000
+Finland,FI,FIN,2022,700000
+Finland,FI,FIN,2023,800000
+Finland,FI,FIN,2024,800000
+France,FR,FRA,2014,7500000
+France,FR,FRA,2015,7500000
+France,FR,FRA,2016,7000000
+France,FR,FRA,2017,7340000
+France,FR,FRA,2018,7340000
+France,FR,FRA,2019,7340000
+France,FR,FRA,2020,7600000
+France,FR,FRA,2021,7600000
+France,FR,FRA,2022,7600000
+France,FR,FRA,2023,7600000
+France,FR,FRA,2024,9900000
+Georgia,GE,GEO,2014,
+Georgia,GE,GEO,2015,39495
+Georgia,GE,GEO,2016,47903
+Georgia,GE,GEO,2017,48722
+Georgia,GE,GEO,2018,53768
+Georgia,GE,GEO,2019,57034
+Georgia,GE,GEO,2020,69953
+Georgia,GE,GEO,2021,74291
+Georgia,GE,GEO,2022,72846
+Georgia,GE,GEO,2023,
+Georgia,GE,GEO,2024,
+Germany,DE,DEU,2014,6900000
+Germany,DE,DEU,2015,6900000
+Germany,DE,DEU,2016,6900000
+Germany,DE,DEU,2017,9400000
+Germany,DE,DEU,2018,9400000
+Germany,DE,DEU,2019,9400000
+Germany,DE,DEU,2020,9400000
+Germany,DE,DEU,2021,9400000
+Germany,DE,DEU,2022,9400000
+Germany,DE,DEU,2023,9400000
+Germany,DE,DEU,2024,10500000
+Gibraltar,GI,GIB,2014,
+Gibraltar,GI,GIB,2015,
+Gibraltar,GI,GIB,2016,2600
+Gibraltar,GI,GIB,2017,
+Gibraltar,GI,GIB,2018,
+Gibraltar,GI,GIB,2019,
+Gibraltar,GI,GIB,2020,
+Gibraltar,GI,GIB,2021,
+Gibraltar,GI,GIB,2022,
+Gibraltar,GI,GIB,2023,
+Gibraltar,GI,GIB,2024,
+Greece,GR,GRC,2014,
+Greece,GR,GRC,2015,
+Greece,GR,GRC,2016,
+Greece,GR,GRC,2017,
+Greece,GR,GRC,2018,
+Greece,GR,GRC,2019,
+Greece,GR,GRC,2020,
+Greece,GR,GRC,2021,
+Greece,GR,GRC,2022,
+Greece,GR,GRC,2023,
+Greece,GR,GRC,2024,
+Hungary,HU,HUN,2014,0
+Hungary,HU,HUN,2015,0
+Hungary,HU,HUN,2016,3000000
+Hungary,HU,HUN,2017,3000000
+Hungary,HU,HUN,2018,3000000
+Hungary,HU,HUN,2019,3000000
+Hungary,HU,HUN,2020,3000000
+Hungary,HU,HUN,2021,4000000
+Hungary,HU,HUN,2022,4000000
+Hungary,HU,HUN,2023,
+Hungary,HU,HUN,2024,4000000
+Iceland,IS,ISL,2014,15000
+Iceland,IS,ISL,2015,17000
+Iceland,IS,ISL,2016,20000
+Iceland,IS,ISL,2017,30000
+Iceland,IS,ISL,2018,30000
+Iceland,IS,ISL,2019,30000
+Iceland,IS,ISL,2020,
+Iceland,IS,ISL,2021,
+Iceland,IS,ISL,2022,
+Iceland,IS,ISL,2023,
+Iceland,IS,ISL,2024,
+Ireland,IE,IRL,2014,
+Ireland,IE,IRL,2015,
+Ireland,IE,IRL,2016,
+Ireland,IE,IRL,2017,
+Ireland,IE,IRL,2018,
+Ireland,IE,IRL,2019,
+Ireland,IE,IRL,2020,
+Ireland,IE,IRL,2021,
+Ireland,IE,IRL,2022,
+Ireland,IE,IRL,2023,
+Ireland,IE,IRL,2024,
+Israel,IL,ISR,2014,
+Israel,IL,ISR,2015,
+Israel,IL,ISR,2016,
+Israel,IL,ISR,2017,
+Israel,IL,ISR,2018,
+Israel,IL,ISR,2019,
+Israel,IL,ISR,2020,
+Israel,IL,ISR,2021,
+Israel,IL,ISR,2022,
+Israel,IL,ISR,2023,
+Israel,IL,ISR,2024,
+Italy,IT,ITA,2014,6000000
+Italy,IT,ITA,2015,15000000
+Italy,IT,ITA,2016,15000000
+Italy,IT,ITA,2017,15000000
+Italy,IT,ITA,2018,15000000
+Italy,IT,ITA,2019,15000000
+Italy,IT,ITA,2020,15000000
+Italy,IT,ITA,2021,15000000
+Italy,IT,ITA,2022,15000000
+Italy,IT,ITA,2023,
+Italy,IT,ITA,2024,
+Kazakhstan,KZ,KAZ,2014,
+Kazakhstan,KZ,KAZ,2015,
+Kazakhstan,KZ,KAZ,2016,
+Kazakhstan,KZ,KAZ,2017,
+Kazakhstan,KZ,KAZ,2018,
+Kazakhstan,KZ,KAZ,2019,
+Kazakhstan,KZ,KAZ,2020,
+Kazakhstan,KZ,KAZ,2021,
+Kazakhstan,KZ,KAZ,2022,
+Kazakhstan,KZ,KAZ,2023,
+Kazakhstan,KZ,KAZ,2024,
+Kirghizistan,KG,KGZ,2014,
+Kirghizistan,KG,KGZ,2015,0
+Kirghizistan,KG,KGZ,2016,
+Kirghizistan,KG,KGZ,2017,
+Kirghizistan,KG,KGZ,2018,
+Kirghizistan,KG,KGZ,2019,
+Kirghizistan,KG,KGZ,2020,
+Kirghizistan,KG,KGZ,2021,13920
+Kirghizistan,KG,KGZ,2022,14200
+Kirghizistan,KG,KGZ,2023,15100
+Kirghizistan,KG,KGZ,2024,
+Kosovo,KV,,2014,10000
+Kosovo,KV,,2015,10000
+Kosovo,KV,,2016,10000
+Kosovo,KV,,2017,10000
+Kosovo,KV,,2018,12000
+Kosovo,KV,,2019,15000
+Kosovo,KV,,2020,15000
+Kosovo,KV,,2021,16500
+Kosovo,KV,,2022,18000
+Kosovo,KV,,2023,19000
+Kosovo,KV,,2024,19000
+Latvia,LV,LVA,2014,
+Latvia,LV,LVA,2015,
+Latvia,LV,LVA,2016,120000
+Latvia,LV,LVA,2017,150000
+Latvia,LV,LVA,2018,150000
+Latvia,LV,LVA,2019,133000
+Latvia,LV,LVA,2020,130000
+Latvia,LV,LVA,2021,150000
+Latvia,LV,LVA,2022,134000
+Latvia,LV,LVA,2023,146000
+Latvia,LV,LVA,2024,143000
+Lebanon,LB,LBN,2014,
+Lebanon,LB,LBN,2015,
+Lebanon,LB,LBN,2016,
+Lebanon,LB,LBN,2017,
+Lebanon,LB,LBN,2018,
+Lebanon,LB,LBN,2019,
+Lebanon,LB,LBN,2020,
+Lebanon,LB,LBN,2021,
+Lebanon,LB,LBN,2022,
+Lebanon,LB,LBN,2023,
+Lebanon,LB,LBN,2024,
+Lithuania,LT,LTU,2014,300000
+Lithuania,LT,LTU,2015,300000
+Lithuania,LT,LTU,2016,300000
+Lithuania,LT,LTU,2017,300000
+Lithuania,LT,LTU,2018,300000
+Lithuania,LT,LTU,2019,300000
+Lithuania,LT,LTU,2020,300000
+Lithuania,LT,LTU,2021,
+Lithuania,LT,LTU,2022,300000
+Lithuania,LT,LTU,2023,300000
+Lithuania,LT,LTU,2024,300000
+Luxembourg,LU,LUX,2014,
+Luxembourg,LU,LUX,2015,
+Luxembourg,LU,LUX,2016,
+Luxembourg,LU,LUX,2017,55500
+Luxembourg,LU,LUX,2018,
+Luxembourg,LU,LUX,2019,
+Luxembourg,LU,LUX,2020,
+Luxembourg,LU,LUX,2021,
+Luxembourg,LU,LUX,2022,82550
+Luxembourg,LU,LUX,2023,
+Luxembourg,LU,LUX,2024,
+Malta,MT,MLT,2014,
+Malta,MT,MLT,2015,58000
+Malta,MT,MLT,2016,
+Malta,MT,MLT,2017,58310
+Malta,MT,MLT,2018,
+Malta,MT,MLT,2019,
+Malta,MT,MLT,2020,
+Malta,MT,MLT,2021,
+Malta,MT,MLT,2022,
+Malta,MT,MLT,2023,
+Malta,MT,MLT,2024,
+Moldavia (Republic Of),MD,MDA,2014,
+Moldavia (Republic Of),MD,MDA,2015,
+Moldavia (Republic Of),MD,MDA,2016,
+Moldavia (Republic Of),MD,MDA,2017,
+Moldavia (Republic Of),MD,MDA,2018,
+Moldavia (Republic Of),MD,MDA,2019,
+Moldavia (Republic Of),MD,MDA,2020,
+Moldavia (Republic Of),MD,MDA,2021,
+Moldavia (Republic Of),MD,MDA,2022,20000
+Moldavia (Republic Of),MD,MDA,2023,
+Moldavia (Republic Of),MD,MDA,2024,
+Monaco,MC,MCO,2014,
+Monaco,MC,MCO,2015,
+Monaco,MC,MCO,2016,3000
+Monaco,MC,MCO,2017,3000
+Monaco,MC,MCO,2018,3500
+Monaco,MC,MCO,2019,3500
+Monaco,MC,MCO,2020,
+Monaco,MC,MCO,2021,3500
+Monaco,MC,MCO,2022,3502
+Monaco,MC,MCO,2023,
+Monaco,MC,MCO,2024,
+Montenegro,ME,MNE,2014,6500
+Montenegro,ME,MNE,2015,6200
+Montenegro,ME,MNE,2016,6600
+Montenegro,ME,MNE,2017,7000
+Montenegro,ME,MNE,2018,8000
+Montenegro,ME,MNE,2019,8200
+Montenegro,ME,MNE,2020,13000
+Montenegro,ME,MNE,2021,13500
+Montenegro,ME,MNE,2022,13800
+Montenegro,ME,MNE,2023,13700
+Montenegro,ME,MNE,2024,13200
+North Macedonia,MK,MKD,2014,40000
+North Macedonia,MK,MKD,2015,42000
+North Macedonia,MK,MKD,2016,50050
+North Macedonia,MK,MKD,2017,52000
+North Macedonia,MK,MKD,2018,38000
+North Macedonia,MK,MKD,2019,31263
+North Macedonia,MK,MKD,2020,35000
+North Macedonia,MK,MKD,2021,37500
+North Macedonia,MK,MKD,2022,39800
+North Macedonia,MK,MKD,2023,40500
+North Macedonia,MK,MKD,2024,35000
+Norway,NO,NOR,2014,500000
+Norway,NO,NOR,2015,500000
+Norway,NO,NOR,2016,500000
+Norway,NO,NOR,2017,500000
+Norway,NO,NOR,2018,500000
+Norway,NO,NOR,2019,
+Norway,NO,NOR,2020,
+Norway,NO,NOR,2021,
+Norway,NO,NOR,2022,
+Norway,NO,NOR,2023,600000
+Norway,NO,NOR,2024,
+Poland,PL,POL,2014,62983
+Poland,PL,POL,2015,65454
+Poland,PL,POL,2016,68144
+Poland,PL,POL,2017,
+Poland,PL,POL,2018,75556
+Poland,PL,POL,2019,76373
+Poland,PL,POL,2020,82168
+Poland,PL,POL,2021,
+Poland,PL,POL,2022,7800000
+Poland,PL,POL,2023,926458
+Poland,PL,POL,2024,
+Portugal,PT,PRT,2014,
+Portugal,PT,PRT,2015,
+Portugal,PT,PRT,2016,
+Portugal,PT,PRT,2017,
+Portugal,PT,PRT,2018,
+Portugal,PT,PRT,2019,
+Portugal,PT,PRT,2020,
+Portugal,PT,PRT,2021,
+Portugal,PT,PRT,2022,
+Portugal,PT,PRT,2023,
+Portugal,PT,PRT,2024,
+Romania,RO,ROU,2014,0
+Romania,RO,ROU,2015,500000
+Romania,RO,ROU,2016,500000
+Romania,RO,ROU,2017,502000
+Romania,RO,ROU,2018,
+Romania,RO,ROU,2019,
+Romania,RO,ROU,2020,
+Romania,RO,ROU,2021,
+Romania,RO,ROU,2022,
+Romania,RO,ROU,2023,
+Romania,RO,ROU,2024,
+Russian Federation,RU,RUS,2014,
+Russian Federation,RU,RUS,2015,
+Russian Federation,RU,RUS,2016,15000000
+Russian Federation,RU,RUS,2017,15000000
+Russian Federation,RU,RUS,2018,15000000
+Russian Federation,RU,RUS,2019,18900000
+Russian Federation,RU,RUS,2020,19000000
+Russian Federation,RU,RUS,2021,22600000
+Russian Federation,RU,RUS,2022,22500000
+Russian Federation,RU,RUS,2023,23000000
+Russian Federation,RU,RUS,2024,23000000
+San Marino,SM,SMR,2014,4411
+San Marino,SM,SMR,2015,5000
+San Marino,SM,SMR,2016,5000
+San Marino,SM,SMR,2017,4500
+San Marino,SM,SMR,2018,5100
+San Marino,SM,SMR,2019,5070
+San Marino,SM,SMR,2020,6081
+San Marino,SM,SMR,2021,6124
+San Marino,SM,SMR,2022,6112
+San Marino,SM,SMR,2023,5970
+San Marino,SM,SMR,2024,5950
+Serbia,RS,SRB,2014,
+Serbia,RS,SRB,2015,
+Serbia,RS,SRB,2016,
+Serbia,RS,SRB,2017,
+Serbia,RS,SRB,2018,
+Serbia,RS,SRB,2019,
+Serbia,RS,SRB,2020,
+Serbia,RS,SRB,2021,
+Serbia,RS,SRB,2022,0
+Serbia,RS,SRB,2023,
+Serbia,RS,SRB,2024,
+Slovakia,SK,SVK,2014,
+Slovakia,SK,SVK,2015,
+Slovakia,SK,SVK,2016,
+Slovakia,SK,SVK,2017,
+Slovakia,SK,SVK,2018,
+Slovakia,SK,SVK,2019,
+Slovakia,SK,SVK,2020,
+Slovakia,SK,SVK,2021,
+Slovakia,SK,SVK,2022,
+Slovakia,SK,SVK,2023,
+Slovakia,SK,SVK,2024,
+Slovenia,SI,SVN,2014,0
+Slovenia,SI,SVN,2015,0
+Slovenia,SI,SVN,2016,0
+Slovenia,SI,SVN,2017,150000
+Slovenia,SI,SVN,2018,150000
+Slovenia,SI,SVN,2019,150000
+Slovenia,SI,SVN,2020,150000
+Slovenia,SI,SVN,2021,150000
+Slovenia,SI,SVN,2022,150000
+Slovenia,SI,SVN,2023,150000
+Slovenia,SI,SVN,2024,
+Spain,ES,ESP,2014,
+Spain,ES,ESP,2015,
+Spain,ES,ESP,2016,
+Spain,ES,ESP,2017,
+Spain,ES,ESP,2018,
+Spain,ES,ESP,2019,
+Spain,ES,ESP,2020,
+Spain,ES,ESP,2021,
+Spain,ES,ESP,2022,
+Spain,ES,ESP,2023,
+Spain,ES,ESP,2024,
+Sweden,SE,SWE,2014,730000
+Sweden,SE,SWE,2015,730000
+Sweden,SE,SWE,2016,784000
+Sweden,SE,SWE,2017,881000
+Sweden,SE,SWE,2018,881000
+Sweden,SE,SWE,2019,881000
+Sweden,SE,SWE,2020,934000
+Sweden,SE,SWE,2021,989000
+Sweden,SE,SWE,2022,989000
+Sweden,SE,SWE,2023,970000
+Sweden,SE,SWE,2024,950000
+Switzerland,CH,CHE,2014,
+Switzerland,CH,CHE,2015,530000
+Switzerland,CH,CHE,2016,
+Switzerland,CH,CHE,2017,
+Switzerland,CH,CHE,2018,505745
+Switzerland,CH,CHE,2019,523139
+Switzerland,CH,CHE,2020,529447
+Switzerland,CH,CHE,2021,545019
+Switzerland,CH,CHE,2022,556812
+Switzerland,CH,CHE,2023,554570
+Switzerland,CH,CHE,2024,553989
+The Netherlands,NL,NLD,2014,
+The Netherlands,NL,NLD,2015,1500000
+The Netherlands,NL,NLD,2016,1500000
+The Netherlands,NL,NLD,2017,1500000
+The Netherlands,NL,NLD,2018,1500000
+The Netherlands,NL,NLD,2019,
+The Netherlands,NL,NLD,2020,
+The Netherlands,NL,NLD,2021,1500000
+The Netherlands,NL,NLD,2022,1900000
+The Netherlands,NL,NLD,2023,1900000
+The Netherlands,NL,NLD,2024,1900000
+Turkey,TR,TUR,2014,250000
+Turkey,TR,TUR,2015,270000
+Turkey,TR,TUR,2016,270000
+Turkey,TR,TUR,2017,270000
+Turkey,TR,TUR,2018,300000
+Turkey,TR,TUR,2019,350000
+Turkey,TR,TUR,2020,
+Turkey,TR,TUR,2021,
+Turkey,TR,TUR,2022,
+Turkey,TR,TUR,2023,
+Turkey,TR,TUR,2024,
+Ukraine,UA,UKR,2014,0
+Ukraine,UA,UKR,2015,0
+Ukraine,UA,UKR,2016,0
+Ukraine,UA,UKR,2017,0
+Ukraine,UA,UKR,2018,
+Ukraine,UA,UKR,2019,
+Ukraine,UA,UKR,2020,
+Ukraine,UA,UKR,2021,
+Ukraine,UA,UKR,2022,
+Ukraine,UA,UKR,2023,
+Ukraine,UA,UKR,2024,
+Uzbekistan,UZ,UZB,2014,
+Uzbekistan,UZ,UZB,2015,
+Uzbekistan,UZ,UZB,2016,
+Uzbekistan,UZ,UZB,2017,
+Uzbekistan,UZ,UZB,2018,
+Uzbekistan,UZ,UZB,2019,
+Uzbekistan,UZ,UZB,2020,
+Uzbekistan,UZ,UZB,2021,
+Uzbekistan,UZ,UZB,2022,
+Uzbekistan,UZ,UZB,2023,
+Uzbekistan,UZ,UZB,2024,
+Algeria,DZ,DZA,2014,
+Algeria,DZ,DZA,2015,
+Algeria,DZ,DZA,2016,
+Algeria,DZ,DZA,2017,3000
+Algeria,DZ,DZA,2018,9000
+Algeria,DZ,DZA,2019,10000
+Algeria,DZ,DZA,2020,
+Algeria,DZ,DZA,2021,
+Algeria,DZ,DZA,2022,
+Algeria,DZ,DZA,2023,
+Algeria,DZ,DZA,2024,
+Australia,AU,AUS,2014,
+Australia,AU,AUS,2015,
+Australia,AU,AUS,2016,
+Australia,AU,AUS,2017,
+Australia,AU,AUS,2018,
+Australia,AU,AUS,2019,
+Australia,AU,AUS,2020,
+Australia,AU,AUS,2021,
+Australia,AU,AUS,2022,
+Australia,AU,AUS,2023,
+Australia,AU,AUS,2024,
+Bahrain,BH,BHR,2014,297
+Bahrain,BH,BHR,2015,449
+Bahrain,BH,BHR,2016,619
+Bahrain,BH,BHR,2017,4500
+Bahrain,BH,BHR,2018,4962
+Bahrain,BH,BHR,2019,5273
+Bahrain,BH,BHR,2020,5543
+Bahrain,BH,BHR,2021,6791
+Bahrain,BH,BHR,2022,6872
+Bahrain,BH,BHR,2023,7084
+Bahrain,BH,BHR,2024,6933
+China,CN,CHN,2014,0
+China,CN,CHN,2015,50531
+China,CN,CHN,2016,88210
+China,CN,CHN,2017,76557
+China,CN,CHN,2018,84002
+China,CN,CHN,2019,
+China,CN,CHN,2020,
+China,CN,CHN,2021,
+China,CN,CHN,2022,
+China,CN,CHN,2023,
+China,CN,CHN,2024,
+Egypt,EG,EGY,2014,
+Egypt,EG,EGY,2015,
+Egypt,EG,EGY,2016,
+Egypt,EG,EGY,2017,
+Egypt,EG,EGY,2018,946000
+Egypt,EG,EGY,2019,1018000
+Egypt,EG,EGY,2020,
+Egypt,EG,EGY,2021,
+Egypt,EG,EGY,2022,
+Egypt,EG,EGY,2023,
+Egypt,EG,EGY,2024,
+Ghana,GH,GHA,2014,
+Ghana,GH,GHA,2015,
+Ghana,GH,GHA,2016,
+Ghana,GH,GHA,2017,
+Ghana,GH,GHA,2018,
+Ghana,GH,GHA,2019,
+Ghana,GH,GHA,2020,
+Ghana,GH,GHA,2021,
+Ghana,GH,GHA,2022,
+Ghana,GH,GHA,2023,
+Ghana,GH,GHA,2024,
+Hong Kong,HK,HKG,2014,
+Hong Kong,HK,HKG,2015,
+Hong Kong,HK,HKG,2016,700000
+Hong Kong,HK,HKG,2017,
+Hong Kong,HK,HKG,2018,
+Hong Kong,HK,HKG,2019,
+Hong Kong,HK,HKG,2020,
+Hong Kong,HK,HKG,2021,
+Hong Kong,HK,HKG,2022,
+Hong Kong,HK,HKG,2023,
+Hong Kong,HK,HKG,2024,
+India,IN,IND,2014,147200000
+India,IN,IND,2015,149000000
+India,IN,IND,2016,155000000
+India,IN,IND,2017,157500000
+India,IN,IND,2018,15794584
+India,IN,IND,2019,15839286
+India,IN,IND,2020,15894789
+India,IN,IND,2021,16094789
+India,IN,IND,2022,17080108
+India,IN,IND,2023,17127787
+India,IN,IND,2024,17166379
+Indonesia,ID,IDN,2014,
+Indonesia,ID,IDN,2015,
+Indonesia,ID,IDN,2016,
+Indonesia,ID,IDN,2017,
+Indonesia,ID,IDN,2018,
+Indonesia,ID,IDN,2019,
+Indonesia,ID,IDN,2020,
+Indonesia,ID,IDN,2021,
+Indonesia,ID,IDN,2022,
+Indonesia,ID,IDN,2023,
+Indonesia,ID,IDN,2024,
+Iran (Islamic Republic Of),IR,IRN,2014,
+Iran (Islamic Republic Of),IR,IRN,2015,
+Iran (Islamic Republic Of),IR,IRN,2016,12000
+Iran (Islamic Republic Of),IR,IRN,2017,24000
+Iran (Islamic Republic Of),IR,IRN,2018,3000000
+Iran (Islamic Republic Of),IR,IRN,2019,3000000
+Iran (Islamic Republic Of),IR,IRN,2020,3500000
+Iran (Islamic Republic Of),IR,IRN,2021,3500000
+Iran (Islamic Republic Of),IR,IRN,2022,5000000
+Iran (Islamic Republic Of),IR,IRN,2023,6000000
+Iran (Islamic Republic Of),IR,IRN,2024,6000000
+Japan,JP,JPN,2014,11000000
+Japan,JP,JPN,2015,10000000
+Japan,JP,JPN,2016,9878000
+Japan,JP,JPN,2017,8920000
+Japan,JP,JPN,2018,8903000
+Japan,JP,JPN,2019,8797000
+Japan,JP,JPN,2020,8489000
+Japan,JP,JPN,2021,7106000
+Japan,JP,JPN,2022,7053000
+Japan,JP,JPN,2023,6844000
+Japan,JP,JPN,2024,6796000
+Jordan,JO,JOR,2014,
+Jordan,JO,JOR,2015,
+Jordan,JO,JOR,2016,
+Jordan,JO,JOR,2017,
+Jordan,JO,JOR,2018,
+Jordan,JO,JOR,2019,
+Jordan,JO,JOR,2020,
+Jordan,JO,JOR,2021,
+Jordan,JO,JOR,2022,
+Jordan,JO,JOR,2023,
+Jordan,JO,JOR,2024,
+Korea (Republic Of),KR,KOR,2014,
+Korea (Republic Of),KR,KOR,2015,
+Korea (Republic Of),KR,KOR,2016,
+Korea (Republic Of),KR,KOR,2017,
+Korea (Republic Of),KR,KOR,2018,10000000
+Korea (Republic Of),KR,KOR,2019,2700000
+Korea (Republic Of),KR,KOR,2020,5984903
+Korea (Republic Of),KR,KOR,2021,2300000
+Korea (Republic Of),KR,KOR,2022,5860000
+Korea (Republic Of),KR,KOR,2023,4730000
+Korea (Republic Of),KR,KOR,2024,3286000
+Kuwait,KW,KWT,2014,
+Kuwait,KW,KWT,2015,
+Kuwait,KW,KWT,2016,
+Kuwait,KW,KWT,2017,
+Kuwait,KW,KWT,2018,
+Kuwait,KW,KWT,2019,
+Kuwait,KW,KWT,2020,
+Kuwait,KW,KWT,2021,
+Kuwait,KW,KWT,2022,
+Kuwait,KW,KWT,2023,
+Kuwait,KW,KWT,2024,
+Madagascar,MG,MDG,2014,
+Madagascar,MG,MDG,2015,
+Madagascar,MG,MDG,2016,
+Madagascar,MG,MDG,2017,
+Madagascar,MG,MDG,2018,
+Madagascar,MG,MDG,2019,
+Madagascar,MG,MDG,2020,
+Madagascar,MG,MDG,2021,
+Madagascar,MG,MDG,2022,
+Madagascar,MG,MDG,2023,
+Madagascar,MG,MDG,2024,100000
+Malaysia,MY,MYS,2014,361500
+Malaysia,MY,MYS,2015,361500
+Malaysia,MY,MYS,2016,385400
+Malaysia,MY,MYS,2017,394800
+Malaysia,MY,MYS,2018,402500
+Malaysia,MY,MYS,2019,
+Malaysia,MY,MYS,2020,
+Malaysia,MY,MYS,2021,
+Malaysia,MY,MYS,2022,
+Malaysia,MY,MYS,2023,
+Malaysia,MY,MYS,2024,
+Mongolia,MN,MNG,2014,
+Mongolia,MN,MNG,2015,
+Mongolia,MN,MNG,2016,
+Mongolia,MN,MNG,2017,88563
+Mongolia,MN,MNG,2018,97630
+Mongolia,MN,MNG,2019,101430
+Mongolia,MN,MNG,2020,
+Mongolia,MN,MNG,2021,
+Mongolia,MN,MNG,2022,
+Mongolia,MN,MNG,2023,
+Mongolia,MN,MNG,2024,
+Morocco,MA,MAR,2014,
+Morocco,MA,MAR,2015,
+Morocco,MA,MAR,2016,
+Morocco,MA,MAR,2017,
+Morocco,MA,MAR,2018,
+Morocco,MA,MAR,2019,2500000
+Morocco,MA,MAR,2020,3000000
+Morocco,MA,MAR,2021,3000000
+Morocco,MA,MAR,2022,
+Morocco,MA,MAR,2023,
+Morocco,MA,MAR,2024,
+Myanmar,MM,MMR,2014,
+Myanmar,MM,MMR,2015,
+Myanmar,MM,MMR,2016,
+Myanmar,MM,MMR,2017,
+Myanmar,MM,MMR,2018,
+Myanmar,MM,MMR,2019,350000
+Myanmar,MM,MMR,2020,350000
+Myanmar,MM,MMR,2021,385000
+Myanmar,MM,MMR,2022,400000
+Myanmar,MM,MMR,2023,300000
+Myanmar,MM,MMR,2024,350000
+New Zealand,NZ,NZL,2014,
+New Zealand,NZ,NZL,2015,
+New Zealand,NZ,NZL,2016,
+New Zealand,NZ,NZL,2017,
+New Zealand,NZ,NZL,2018,
+New Zealand,NZ,NZL,2019,565757
+New Zealand,NZ,NZL,2020,851000
+New Zealand,NZ,NZL,2021,
+New Zealand,NZ,NZL,2022,605834
+New Zealand,NZ,NZL,2023,
+New Zealand,NZ,NZL,2024,
+Nigeria,NG,NGA,2014,
+Nigeria,NG,NGA,2015,
+Nigeria,NG,NGA,2016,
+Nigeria,NG,NGA,2017,
+Nigeria,NG,NGA,2018,
+Nigeria,NG,NGA,2019,
+Nigeria,NG,NGA,2020,
+Nigeria,NG,NGA,2021,
+Nigeria,NG,NGA,2022,
+Nigeria,NG,NGA,2023,
+Nigeria,NG,NGA,2024,
+Pakistan,PK,PAK,2014,186000
+Pakistan,PK,PAK,2015,180000
+Pakistan,PK,PAK,2016,190200
+Pakistan,PK,PAK,2017,
+Pakistan,PK,PAK,2018,
+Pakistan,PK,PAK,2019,
+Pakistan,PK,PAK,2020,
+Pakistan,PK,PAK,2021,
+Pakistan,PK,PAK,2022,
+Pakistan,PK,PAK,2023,
+Pakistan,PK,PAK,2024,
+Philippines,PH,PHL,2014,
+Philippines,PH,PHL,2015,
+Philippines,PH,PHL,2016,
+Philippines,PH,PHL,2017,
+Philippines,PH,PHL,2018,
+Philippines,PH,PHL,2019,
+Philippines,PH,PHL,2020,10800000
+Philippines,PH,PHL,2021,
+Philippines,PH,PHL,2022,
+Philippines,PH,PHL,2023,23000000
+Philippines,PH,PHL,2024,16400000
+Singapore,SG,SGP,2014,65000
+Singapore,SG,SGP,2015,60000
+Singapore,SG,SGP,2016,62000
+Singapore,SG,SGP,2017,62000
+Singapore,SG,SGP,2018,62000
+Singapore,SG,SGP,2019,
+Singapore,SG,SGP,2020,
+Singapore,SG,SGP,2021,
+Singapore,SG,SGP,2022,
+Singapore,SG,SGP,2023,
+Singapore,SG,SGP,2024,
+South Africa,ZA,ZAF,2014,9000000
+South Africa,ZA,ZAF,2015,9000000
+South Africa,ZA,ZAF,2016,9000000
+South Africa,ZA,ZAF,2017,9000000
+South Africa,ZA,ZAF,2018,9950000
+South Africa,ZA,ZAF,2019,9950000
+South Africa,ZA,ZAF,2020,9950000
+South Africa,ZA,ZAF,2021,10000000
+South Africa,ZA,ZAF,2022,10000000
+South Africa,ZA,ZAF,2023,10000000
+South Africa,ZA,ZAF,2024,10000000
+Sri Lanka,LK,LKA,2014,
+Sri Lanka,LK,LKA,2015,
+Sri Lanka,LK,LKA,2016,
+Sri Lanka,LK,LKA,2017,
+Sri Lanka,LK,LKA,2018,50000
+Sri Lanka,LK,LKA,2019,57000
+Sri Lanka,LK,LKA,2020,84000
+Sri Lanka,LK,LKA,2021,120000
+Sri Lanka,LK,LKA,2022,145000
+Sri Lanka,LK,LKA,2023,200000
+Sri Lanka,LK,LKA,2024,224000
+Sudan,SD,SDN,2014,
+Sudan,SD,SDN,2015,
+Sudan,SD,SDN,2016,
+Sudan,SD,SDN,2017,
+Sudan,SD,SDN,2018,
+Sudan,SD,SDN,2019,
+Sudan,SD,SDN,2020,
+Sudan,SD,SDN,2021,
+Sudan,SD,SDN,2022,
+Sudan,SD,SDN,2023,
+Sudan,SD,SDN,2024,
+Taiwan,TW,TWN,2014,660000
+Taiwan,TW,TWN,2015,20000
+Taiwan,TW,TWN,2016,1796831
+Taiwan,TW,TWN,2017,
+Taiwan,TW,TWN,2018,
+Taiwan,TW,TWN,2019,
+Taiwan,TW,TWN,2020,
+Taiwan,TW,TWN,2021,
+Taiwan,TW,TWN,2022,
+Taiwan,TW,TWN,2023,
+Taiwan,TW,TWN,2024,2236029
+Thailand,TH,THA,2014,31110
+Thailand,TH,THA,2015,38560
+Thailand,TH,THA,2016,32006
+Thailand,TH,THA,2017,39902
+Thailand,TH,THA,2018,39305
+Thailand,TH,THA,2019,30353
+Thailand,TH,THA,2020,
+Thailand,TH,THA,2021,
+Thailand,TH,THA,2022,
+Thailand,TH,THA,2023,
+Thailand,TH,THA,2024,
+Tunisia,TN,TUN,2014,
+Tunisia,TN,TUN,2015,
+Tunisia,TN,TUN,2016,
+Tunisia,TN,TUN,2017,
+Tunisia,TN,TUN,2018,
+Tunisia,TN,TUN,2019,
+Tunisia,TN,TUN,2020,
+Tunisia,TN,TUN,2021,
+Tunisia,TN,TUN,2022,
+Tunisia,TN,TUN,2023,
+Tunisia,TN,TUN,2024,35000
+United Arab Emirates,AE,ARE,2014,
+United Arab Emirates,AE,ARE,2015,
+United Arab Emirates,AE,ARE,2016,
+United Arab Emirates,AE,ARE,2017,
+United Arab Emirates,AE,ARE,2018,
+United Arab Emirates,AE,ARE,2019,3217
+United Arab Emirates,AE,ARE,2020,3326
+United Arab Emirates,AE,ARE,2021,3415
+United Arab Emirates,AE,ARE,2022,3610
+United Arab Emirates,AE,ARE,2023,4255
+United Arab Emirates,AE,ARE,2024,3815
+Vietnam,VN,VNM,2014,1000000
+Vietnam,VN,VNM,2015,
+Vietnam,VN,VNM,2016,500000
+Vietnam,VN,VNM,2017,
+Vietnam,VN,VNM,2018,
+Vietnam,VN,VNM,2019,
+Vietnam,VN,VNM,2020,
+Vietnam,VN,VNM,2021,
+Vietnam,VN,VNM,2022,
+Vietnam,VN,VNM,2023,
+Vietnam,VN,VNM,2024,
